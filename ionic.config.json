@@ -1,0 +1,7 @@
+{
+  "name": "Hamoan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
